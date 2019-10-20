@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-
+[This is what I do for work](http://aulaplaneta.com)
+<img src="images/logo-aulaplaneta-innovamos-transparente-300x70.png?raw=true"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 
