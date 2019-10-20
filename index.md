@@ -1,26 +1,28 @@
-## Portfolio
+## Some of my projects
 
 ---
 
-### Category Name 1 
+### At work
 
-[This is what I do for work](http://aulaplaneta.com)
+[This is what I'm building at work...](http://aulaplaneta.com/)
+
 <img src="images/logo-aulaplaneta-innovamos-transparente-300x70.png?raw=true"/>
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
 
+### Revisiting electronics
+I'm a Telecommunication Engineer but I haven't been working with electronics for a long long time... 
+
+[R2D2](/pdf/sample_presentation.pdf)
+Adding new functionalities to a small R2D2 toy using Arduino 
 ---
 [Project 3 Title](http://example.com/)
 
 ---
 
-### Category Name 2
+### Old projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Terraformer](http://example.com/)
+- [Artificial life](http://example.com/)
+- [Burger Bomb](http://example.com/)
 
 ---
 
