@@ -12,9 +12,9 @@
 
 ### Playing at present with...
 
-- [Vic20 Action RPG](https://github.com/taganz/vic20_rpg)
+- [Vic20 Action RPG](https://youtu.be/b3BdMNDb070)
     - An Action RPG written with Victor just for fun
-    - Status as Dec 30th, 2020: https://youtu.be/b3BdMNDb070 
+    - [Github](https://github.com/taganz/vic20_rpg) 
     - Next levels coming soon...  :-) 
 
 ---
