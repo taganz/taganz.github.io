@@ -23,7 +23,7 @@
 - [Hacking a Disney R2D2 robot](https://www.youtube.com/watch?v=UKkw1i2dHGM&feature=emb_logo)
     - I'm a Telecommunication Engineer but I haven't been working with electronics for a long long time... 
     - Adding new functionalities to a small R2D2 toy using Arduino 
-    - Description can be found at Instructables [Hacked Disney R2D2: Bluetooth Control, More Sounds (ESP32, DFPlayer)](https://www.instructables.com/Hacked-Disney-R2D2/)
+    -[Instructables: Hacked Disney R2D2: Bluetooth Control, More Sounds (ESP32, DFPlayer)](https://www.instructables.com/Hacked-Disney-R2D2/)  )
 ---
 - [Terraformer simulation videogame](https://terraformersim.wordpress.com/)
     - Terraformer was a project to build a free educational ecosystem simulation videogame. To much work to finish...
