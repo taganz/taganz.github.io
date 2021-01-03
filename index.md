@@ -8,20 +8,28 @@
 
 <img src="images/logo-aulaplaneta-innovamos-transparente-300x70.png?raw=true"/>
 
-### Revisiting electronics
-I'm a Telecommunication Engineer but I haven't been working with electronics for a long long time... 
 
-[R2D2](/pdf/sample_presentation.pdf)
-Adding new functionalities to a small R2D2 toy using Arduino 
----
-[Project 3 Title](http://example.com/)
+### Playing at present with...
 
----
+- [Vic20 Action RPG] (https://github.com/taganz/vic20_rpg)
+    - An Action RPG written with Victor just for fun
+    - Status as Dec 30th, 2020: https://youtu.be/b3BdMNDb070 
+    - Next levels coming soon...  :-) 
+
+
 
 ### Old projects
 
-- [Terraformer](http://example.com/)
+- [Hacked Disney R2D2: Bluetooth Control, More Sounds (ESP32, DFPlayer)] (https://www.youtube.com/watch?v=UKkw1i2dHGM&feature=emb_logo)
+    - I'm a Telecommunication Engineer but I haven't been working with electronics for a long long time... 
+    - Adding new functionalities to a small R2D2 toy using Arduino 
+    - Description can be found at [Instructables]: (https://www.instructables.com/Hacked-Disney-R2D2/)
+---
+- [Terraformer](https://terraformersim.wordpress.com/)
+    - Terraformer was a project to build a free educational ecosystem simulation videogame. To much work to finish...
+---
 - [Artificial life](http://example.com/)
+---
 - [Burger Bomb](https://1drv.ms/u/s!Ai4SkKtnE2SNgoUpBYgfcVrOqKiPbA?e=YW0ata)
     - Burger bomb is a small game written on GameMaker
 
