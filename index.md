@@ -20,6 +20,7 @@
 
 ### Old projects
 
+<<<<<<< HEAD
 - [Hacked Disney R2D2: Bluetooth Control, More Sounds (ESP32, DFPlayer)] (https://www.youtube.com/watch?v=UKkw1i2dHGM&feature=emb_logo)
     - I'm a Telecommunication Engineer but I haven't been working with electronics for a long long time... 
     - Adding new functionalities to a small R2D2 toy using Arduino 
@@ -30,8 +31,14 @@
 ---
 - [Artificial life](http://example.com/)
 ---
+=======
+- [Disney R2D2 hack](https://www.instructables.com/id/Hacked-Disney-R2D2/)
+- [Terraformer](https://terraformersim.wordpress.com/)
+- [Artificial life]
+>>>>>>> 4587e373399f71e0be5cd2be33bb150d53a4c572
 - [Burger Bomb](https://1drv.ms/u/s!Ai4SkKtnE2SNgoUpBYgfcVrOqKiPbA?e=YW0ata)
     - Burger bomb is a small game written on GameMaker
+    
 
 ---
 
