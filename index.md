@@ -20,20 +20,16 @@
 
 ### Old projects
 
-- [Hacked Disney R2D2: Bluetooth Control, More Sounds (ESP32, DFPlayer)](https://www.youtube.com/watch?v=UKkw1i2dHGM&feature=emb_logo)
+- [Hacking a Disney R2D2 robot](https://www.youtube.com/watch?v=UKkw1i2dHGM&feature=emb_logo)
     - I'm a Telecommunication Engineer but I haven't been working with electronics for a long long time... 
     - Adding new functionalities to a small R2D2 toy using Arduino 
-    - Description can be found at [Instructables](https://www.instructables.com/Hacked-Disney-R2D2/)
+    - Description can be found at Instructables [Hacked Disney R2D2: Bluetooth Control, More Sounds (ESP32, DFPlayer)](https://www.instructables.com/Hacked-Disney-R2D2/)
 ---
-- [Terraformer](https://terraformersim.wordpress.com/)
+- [Terraformer simulation videogame](https://terraformersim.wordpress.com/)
     - Terraformer was a project to build a free educational ecosystem simulation videogame. To much work to finish...
+- Artificial life
 ---
-- [Artificial life](http://example.com/)
----
-- [Disney R2D2 hack](https://www.instructables.com/id/Hacked-Disney-R2D2/)
-- [Terraformer](https://terraformersim.wordpress.com/)
-- [Artificial life]
-- [Burger Bomb](https://1drv.ms/u/s!Ai4SkKtnE2SNgoUpBYgfcVrOqKiPbA?e=YW0ata)
+- [Burger Bomb, learning GameMaker](https://1drv.ms/u/s!Ai4SkKtnE2SNgoUpBYgfcVrOqKiPbA?e=YW0ata)
     - Burger bomb was a small game written with GameMaker
     
 
