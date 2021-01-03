@@ -1,4 +1,4 @@
-## Some of my projects
+## Some of my projects 
 
 ---
 
@@ -22,9 +22,10 @@
 ### Old projects
 
 - [Hacking a Disney R2D2 robot](https://www.youtube.com/watch?v=UKkw1i2dHGM&feature=emb_logo)
-    - I'm a Telecommunication Engineer but I haven't been working with electronics for a long long time... 
     - Adding new functionalities to a small R2D2 toy using Arduino 
     - [Instructables: Hacked Disney R2D2: Bluetooth Control, More Sounds (ESP32, DFPlayer)](https://www.instructables.com/Hacked-Disney-R2D2/)  )
+- [A typical obstacle avoiding robot](https://youtu.be/bdtX2f9paxo)
+    - I'm a Telecommunication Engineer but I haven't been working with electronics for a long long time... This was to revisit electronics.
 - [Terraformer simulation videogame](https://terraformersim.wordpress.com/)
     - Terraformer was a project to build a free educational ecosystem simulation videogame. To much work to finish...
 - Artificial life
