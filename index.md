@@ -8,6 +8,7 @@
 
 <img src="images/logo-aulaplaneta-innovamos-transparente-300x70.png?raw=true"/>
 
+---
 
 ### Playing at present with...
 
@@ -16,24 +17,21 @@
     - Status as Dec 30th, 2020: https://youtu.be/b3BdMNDb070 
     - Next levels coming soon...  :-) 
 
-
+---
 
 ### Old projects
 
 - [Hacking a Disney R2D2 robot](https://www.youtube.com/watch?v=UKkw1i2dHGM&feature=emb_logo)
     - I'm a Telecommunication Engineer but I haven't been working with electronics for a long long time... 
     - Adding new functionalities to a small R2D2 toy using Arduino 
-    -[Instructables: Hacked Disney R2D2: Bluetooth Control, More Sounds (ESP32, DFPlayer)](https://www.instructables.com/Hacked-Disney-R2D2/)  )
----
+    - [Instructables: Hacked Disney R2D2: Bluetooth Control, More Sounds (ESP32, DFPlayer)](https://www.instructables.com/Hacked-Disney-R2D2/)  )
 - [Terraformer simulation videogame](https://terraformersim.wordpress.com/)
     - Terraformer was a project to build a free educational ecosystem simulation videogame. To much work to finish...
 - Artificial life
----
 - [Burger Bomb, learning GameMaker](https://1drv.ms/u/s!Ai4SkKtnE2SNgoUpBYgfcVrOqKiPbA?e=YW0ata)
     - Burger bomb was a small game written with GameMaker
-    
 
----
+
 
 
 
