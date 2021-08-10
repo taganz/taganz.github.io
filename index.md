@@ -12,15 +12,17 @@
 
 ### Playing at present with...
 
-- [Vic20 Action RPG](https://youtu.be/b3BdMNDb070)
-    - An Action RPG written with Victor just for fun
-    - [Github](https://github.com/taganz/vic20_rpg) 
-    - Next levels coming soon...  :-) 
+- [Generative art](https://openprocessing.org/user/281314/?view=activity)
+    - I'm usign p5.js, the JS version of Processing library.
 
 ---
 
 ### Old projects
 
+- [Vic20 Action RPG](https://youtu.be/b3BdMNDb070)
+    - An Action RPG written with Victor just for fun
+    - [Github](https://github.com/taganz/vic20_rpg) 
+    - Next levels coming soon...  :-) 
 - [Hacking a Disney R2D2 robot](https://www.youtube.com/watch?v=UKkw1i2dHGM&feature=emb_logo)
     - Adding new functionalities to a small R2D2 toy using Arduino 
     - [Instructables: Hacked Disney R2D2: Bluetooth Control, More Sounds (ESP32, DFPlayer)](https://www.instructables.com/Hacked-Disney-R2D2/)  )
