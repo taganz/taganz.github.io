@@ -12,7 +12,7 @@
 
 ### Playing at present with...
 
-- [Generative art](https://openprocessing.org/user/281314/?view=activity)
+- [Generative art](https://openprocessing.org/user/281314/?view=sketches)
     - I'm usign p5.js, the JS version of Processing library.
 
 ---
