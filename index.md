@@ -14,8 +14,7 @@
 
 - [See sketches at openprocessing.com](https://openprocessing.org/user/281314/?view=sketches)
     - I'm usign p5.js, the JS version of Processing library.
-- [This is a website test](https://codi-p5js.herokuapp.com/)
-- []
+- [This is a website test with some sketches](https://codi-p5js.herokuapp.com/)
 ---
 
 ### Old projects
