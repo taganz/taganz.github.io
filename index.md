@@ -1,6 +1,3 @@
-## Some of my projects 
-
-
 ---
 
 ### Generative art
@@ -30,7 +27,8 @@
     - Producing multimedia enciclopedias from 2001 to 20104
 
 - [veintinueve](http://www.veintinueve.com/)
-    - veintinueve was one of the first ebook stores in Spain (2001)
+    - Veintinueve was one of the first ebook stores in Spain (2001)
+    
 ---
 
 ### Home projects
