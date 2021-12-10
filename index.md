@@ -12,9 +12,13 @@
 
 ### Playing at present with generative art
 
-- [See sketches at openprocessing.com](https://openprocessing.org/user/281314/?view=sketches)
+- [Sketches at openprocessing.com](https://openprocessing.org/user/281314/?view=sketches)
     - I'm usign p5.js, the JS version of Processing library.
-- [This is a website test with some sketches](https://codi-p5js.herokuapp.com/)
+    - test site (https://codi-p5js.herokuapp.com/)
+- [Sketches twitter account: @RidalmaSketch ] (https://twitter.com/RidalmaSketch)
+- [Sketches instagram account: ridalma.sketch] (https://www.instagram.com/ridalma.sketch/)
+
+
 ---
 
 ### Old projects
@@ -31,8 +35,8 @@
 - [Terraformer simulation videogame](https://terraformersim.wordpress.com/)
     - Terraformer was a project to build a free educational ecosystem simulation videogame. To much work to finish...
 - Artificial life
-- [Burger Bomb, learning GameMaker](https://1drv.ms/u/s!Ai4SkKtnE2SNgoUpBYgfcVrOqKiPbA?e=YW0ata)
-    - Burger bomb was a small game written with GameMaker
+- [Editobits blog (2010-2012)](https://editobits.blogspot.com/)
+    - A blog about digital publishing, an innovative field long time ago... Co-edited with my coleague Jose Cruz Rodríguez.
 
 
 
