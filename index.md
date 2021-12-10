@@ -1,3 +1,5 @@
+## Projects
+
 ---
 
 ### Generative art
@@ -17,7 +19,7 @@
 - [aulaplaneta, digital curriculum](http://aulaplaneta.com/)
     - This is what I'm building now at work
 
-    <img src="images/logo-aulaplaneta-innovamos-transparente-300x70.png?raw=true"/>
+    <img src="images/logo-aulaplaneta-innovamos-transparente-200x47.png?raw=true"/>
 
 
 - [Editobits blog (2010-2012)](https://editobits.blogspot.com/)
@@ -28,7 +30,7 @@
 
 - [veintinueve](http://www.veintinueve.com/)
     - Veintinueve was one of the first ebook stores in Spain (2001)
-    
+
 ---
 
 ### Home projects
