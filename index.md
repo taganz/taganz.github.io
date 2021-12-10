@@ -14,9 +14,9 @@
 
 - [Sketches at openprocessing.com](https://openprocessing.org/user/281314/?view=sketches)
     - I'm usign p5.js, the JS version of Processing library.
-    - test site (https://codi-p5js.herokuapp.com/)
-- [Sketches twitter account: @RidalmaSketch ] (https://twitter.com/RidalmaSketch)
-- [Sketches instagram account: ridalma.sketch] (https://www.instagram.com/ridalma.sketch/)
+    - [test site](https://codi-p5js.herokuapp.com/)
+- [Sketches twitter account: @RidalmaSketch ](https://twitter.com/RidalmaSketch)
+- [Sketches instagram account: ridalma.sketch](https://www.instagram.com/ridalma.sketch/)
 
 
 ---
