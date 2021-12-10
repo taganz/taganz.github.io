@@ -1,16 +1,9 @@
 ## Some of my projects 
 
----
-
-### At work
-
-[This is what I'm building at work...](http://aulaplaneta.com/)
-
-<img src="images/logo-aulaplaneta-innovamos-transparente-300x70.png?raw=true"/>
 
 ---
 
-### Playing at present with generative art
+### Generative art
 
 - [Sketches at openprocessing.com](https://openprocessing.org/user/281314/?view=sketches)
     - I'm usign p5.js, the JS version of Processing library.
@@ -21,7 +14,26 @@
 
 ---
 
-### Old projects
+### Digital publishing
+
+
+- [aulaplaneta, digital curriculum](http://aulaplaneta.com/)
+    - This is what I'm building now at work
+
+    <img src="images/logo-aulaplaneta-innovamos-transparente-300x70.png?raw=true"/>
+
+
+- [Editobits blog (2010-2012)](https://editobits.blogspot.com/)
+    - A blog about digital publishing, an innovative field long time ago... Co-edited with my coleague Jose Cruz Rodríguez.
+
+- [Multimedia encyclopedias](https://www.youtube.com/watch?v=-EEav6lPy-c)
+    - Producing multimedia enciclopedias from 2001 to 20104
+
+- [veintinueve](http://www.veintinueve.com/)
+    - veintinueve was one of the first ebook stores in Spain (2001)
+---
+
+### Home projects
 
 - [Vic20 Action RPG](https://youtu.be/b3BdMNDb070)
     - An Action RPG written with Victor just for fun
@@ -35,9 +47,6 @@
 - [Terraformer simulation videogame](https://terraformersim.wordpress.com/)
     - Terraformer was a project to build a free educational ecosystem simulation videogame. To much work to finish...
 - Artificial life
-- [Editobits blog (2010-2012)](https://editobits.blogspot.com/)
-    - A blog about digital publishing, an innovative field long time ago... Co-edited with my coleague Jose Cruz Rodríguez.
-
 
 
 
