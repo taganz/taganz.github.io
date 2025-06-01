@@ -5,13 +5,16 @@
 ### Generative art
 
 - [linktr.ee](https://linktr.ee/ridalma)
+
 - [Sketches at openprocessing.com](https://openprocessing.org/user/281314/?view=sketches)
     - I'm usign p5.js, the JS version of Processing library.
     - [test site](https://codi-p5js.herokuapp.com/)
+
 - [Trembling Trencadis](https://openprocessing.org/crayon/15) was an NFT made for OpenProcssing's [CrayonCodes](https://openprocessing.org/crayon) collection.
+
 - [Published something at fxhash](https://www.fxhash.xyz/u/Ricard%20Dalmau)
-- [Sketches twitter account: @RidalmaSketch ](https://twitter.com/RidalmaSketch)
-- [Sketches instagram account: ridalma.sketch](https://www.instagram.com/ridalma.sketch/)
+
+- Sketches accounts: [twitter @RidalmaSketch ](https://twitter.com/RidalmaSketch) [instagram ridalma.sketch](https://www.instagram.com/ridalma.sketch/)
 
 
 ---
@@ -28,13 +31,14 @@
 - [Editobits blog (2010-2012)](https://editobits.blogspot.com/)
     - A blog about digital publishing, an innovative field long time ago... Co-edited with my coleague Jose Cruz Rodríguez.
 
-- [Multimedia Games](/images/aprendilunniis_Sociales.jpg)
+- [Multimedia Games]
+    - Produced [Aprendilunnis](https://www.youtube.com/watch?v=meWw_-CAyDU), a series of 32 CD-ROMs based on this TV cartoons.
 
-- [Multimedia encyclopedias](https://www.youtube.com/watch?v=-EEav6lPy-c)
-    - Producing multimedia enciclopedias from 2001 to 2013
+- Multimedia encyclopedias
+    - Producing multimedia enciclopedias from 2001 to 2013. As a sample [Gran Enciclopedia Hispanica Edición en Red 2014](https://www.youtube.com/watch?v=BRZR2nwg3uA)
 
 - [veintinueve](http://www.veintinueve.com/)
-    - Veintinueve was one of the first ebook stores in Spain (2001). I
+    - Veintinueve was one of the first ebook stores in Spain (2001). Was born to early and [closed in 2002](https://elpais.com/diario/2002/05/28/cultura/1022536802_850215.html)
 
 ---
 
