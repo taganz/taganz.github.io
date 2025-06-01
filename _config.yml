@@ -1,10 +1,18 @@
-title: Ricard Dalmau # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+# aixo defineix la part de l'esquerra
+
+# your name (or website title) here
+title: Ricard Dalmau                
+
+# your photo (or logo) here
+logo: "/images/ricard_mar_circle_transparent.png?raw=true"  
+
+# your text below (remove <br> elements if you don't need line breaks)
+description: >                     
   <br>
   Technology & content & education 
   <br><br>
-  This is my personal website (working on it...)
+  This is my personal website
+  (working on it...)
   <br><br>
   <a href="https://www.linkedin.com/in/ricarddalmau/">View My LinkedIn Profile</a> 
   

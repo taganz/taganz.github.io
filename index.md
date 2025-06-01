@@ -4,23 +4,26 @@
 
 ### Generative art
 
-- [linktr.ee](https://linktr.ee/ridalma)
+I like to sketch from time to time.
 
 - [Sketches at openprocessing.com](https://openprocessing.org/user/281314/?view=sketches)
     - I'm usign p5.js, the JS version of Processing library.
-    - [test site](https://codi-p5js.herokuapp.com/)
 
-- [Trembling Trencadis](https://openprocessing.org/crayon/15) was an NFT made for OpenProcssing's [CrayonCodes](https://openprocessing.org/crayon) collection.
+- [Trembling Trencadis](https://openprocessing.org/crayon/15) was an NFT made for OpenProcessing's [CrayonCodes](https://openprocessing.org/crayon) collection.
 
-- [Published something at fxhash](https://www.fxhash.xyz/u/Ricard%20Dalmau)
+- [fxhash](https://www.fxhash.xyz/u/Ricard%20Dalmau)
 
-- Sketches accounts: [twitter @RidalmaSketch ](https://twitter.com/RidalmaSketch) [instagram ridalma.sketch](https://www.instagram.com/ridalma.sketch/)
+- Sketches accounts in twitter [@RidalmaSketch ](https://twitter.com/RidalmaSketch) and instagram [ridalma.sketch](https://www.instagram.com/ridalma.sketch/)
+
+- [linktr.ee](https://linktr.ee/ridalma)
+
 
 
 ---
 
 ### Digital publishing
 
+I’ve been working on electronic publishing projects for years. Here are some examples.
 
 - [Aulaplaneta, digital curriculum](http://aulaplaneta.com/)
     - This is what I'm building now at work. A Spanish k12 digital curriculum
@@ -31,10 +34,10 @@
 - [Editobits blog (2010-2012)](https://editobits.blogspot.com/)
     - A blog about digital publishing, an innovative field long time ago... Co-edited with my coleague Jose Cruz Rodríguez.
 
-- [Multimedia Games]
+- **Multimedia Games**
     - Produced [Aprendilunnis](https://www.youtube.com/watch?v=meWw_-CAyDU), a series of 32 CD-ROMs based on this TV cartoons.
 
-- Multimedia encyclopedias
+- **Multimedia encyclopedias**
     - Producing multimedia enciclopedias from 2001 to 2013. As a sample [Gran Enciclopedia Hispanica Edición en Red 2014](https://www.youtube.com/watch?v=BRZR2nwg3uA)
 
 - [veintinueve](http://www.veintinueve.com/)
@@ -43,6 +46,8 @@
 ---
 
 ### Home projects
+
+A few homemade projects—some completed, others still in the works.
 
 - [Evolution Simulation](https://react-biosim.vercel.app/)
     - An environment to create evolutionary simulations inspired in the great video ['I programmed some creatures. They Evolved'](https://www.youtube.com/watch?v=N3tRFayqVtk), by davidrandallmiller, ported to React by [carlo697](https://github.com/carlo697/react-biosim)  
