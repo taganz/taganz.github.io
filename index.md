@@ -4,9 +4,12 @@
 
 ### Generative art
 
+- [linktr.ee](https://linktr.ee/ridalma)
 - [Sketches at openprocessing.com](https://openprocessing.org/user/281314/?view=sketches)
     - I'm usign p5.js, the JS version of Processing library.
     - [test site](https://codi-p5js.herokuapp.com/)
+- [Trembling Trencadis](https://openprocessing.org/crayon/15) was an NFT made for OpenProcssing's [CrayonCodes](https://openprocessing.org/crayon) collection.
+- [Published something at fxhash](https://www.fxhash.xyz/u/Ricard%20Dalmau)
 - [Sketches twitter account: @RidalmaSketch ](https://twitter.com/RidalmaSketch)
 - [Sketches instagram account: ridalma.sketch](https://www.instagram.com/ridalma.sketch/)
 
@@ -16,25 +19,30 @@
 ### Digital publishing
 
 
-- [aulaplaneta, digital curriculum](http://aulaplaneta.com/)
-    - This is what I'm building now at work
+- [Aulaplaneta, digital curriculum](http://aulaplaneta.com/)
+    - This is what I'm building now at work. A Spanish k12 digital curriculum
 
-    <img src="images/logo-aulaplaneta-innovamos-transparente-200x47.png?raw=true"/>
+    <img src="images/AulaPlaneta-Logotipo-Principal.png?raw=true"/>
 
 
 - [Editobits blog (2010-2012)](https://editobits.blogspot.com/)
     - A blog about digital publishing, an innovative field long time ago... Co-edited with my coleague Jose Cruz Rodríguez.
 
+- [Multimedia Games](/images/aprendilunniis_Sociales.jpg)
+
 - [Multimedia encyclopedias](https://www.youtube.com/watch?v=-EEav6lPy-c)
-    - Producing multimedia enciclopedias from 2001 to 20104
+    - Producing multimedia enciclopedias from 2001 to 2013
 
 - [veintinueve](http://www.veintinueve.com/)
-    - Veintinueve was one of the first ebook stores in Spain (2001)
+    - Veintinueve was one of the first ebook stores in Spain (2001). I
 
 ---
 
 ### Home projects
 
+- [Evolution Simulation](https://react-biosim.vercel.app/)
+    - An environment to create evolutionary simulations inspired in the great video ['I programmed some creatures. They Evolved'](https://www.youtube.com/watch?v=N3tRFayqVtk), by davidrandallmiller, ported to React by [carlo697](https://github.com/carlo697/react-biosim)  
+    - [Github](https://github.com/taganz/react-biosim) 
 - [Vic20 Action RPG](https://youtu.be/b3BdMNDb070)
     - An Action RPG written with Victor just for fun
     - [Github](https://github.com/taganz/vic20_rpg) 
