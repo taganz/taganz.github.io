@@ -49,6 +49,12 @@ I’ve been working on electronic publishing projects for years. Here are some e
 
 A few homemade projects—some completed, others still in the works.
 
+- [Jengax](https://rdalmau.com/jengax/)
+    - A a browser-based interactive block-stacking tool inspired by construction logic puzzles.
+
+        <img src="images/jengax_city1.png?raw=true"/>
+        
+    - [Github](https://github.com/taganz/jengax) 
 - [Evolution Simulation](https://react-biosim.vercel.app/)
     - An environment to create evolutionary simulations inspired in the great video ['I programmed some creatures. They Evolved'](https://www.youtube.com/watch?v=N3tRFayqVtk), by davidrandallmiller, ported to React by [carlo697](https://github.com/carlo697/react-biosim)  
     - [Github](https://github.com/taganz/react-biosim) 
