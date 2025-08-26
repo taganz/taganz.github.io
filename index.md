@@ -45,19 +45,24 @@ I’ve been working on electronic publishing projects for years. Here are some e
 
 ---
 
+
 ### Home projects
 
 A few homemade projects—some completed, others still in the works.
 
 - [Jengax](https://rdalmau.com/jengax/)
-    - A a browser-based interactive block-stacking tool inspired by construction logic puzzles.
+    - A a browser-based interactive block-stacking tool inspired by construction logic puzzles. [Github](https://github.com/taganz/jengax) 
 
         <img src="images/jengax_city1.png?raw=true"/>
         
-    - [Github](https://github.com/taganz/jengax) 
 - [Evolution Simulation](https://react-biosim.vercel.app/)
     - An environment to create evolutionary simulations inspired in the great video ['I programmed some creatures. They Evolved'](https://www.youtube.com/watch?v=N3tRFayqVtk), by davidrandallmiller, ported to React by [carlo697](https://github.com/carlo697/react-biosim)  
     - [Github](https://github.com/taganz/react-biosim) 
+- [Forest Walk](https://www.rdalmau.com/forest2508/)
+    - A generative art project using p5.js that simulates a walk through a procedurally generated forest. Each tree is created with unique DNA, resulting in a diverse and infinite landscape. [Github](https://github.com/taganz/forest2508)
+
+        <img src="images/forestwalk200.png?raw=true"/>
+        
 - [Vic20 Action RPG](https://youtu.be/b3BdMNDb070)
     - An Action RPG written with Victor just for fun
     - [Github](https://github.com/taganz/vic20_rpg) 
@@ -69,6 +74,7 @@ A few homemade projects—some completed, others still in the works.
     - I'm a Telecommunication Engineer but I haven't been working with electronics for a long long time... This was to revisit electronics. 
 - [Terraformer simulation videogame](https://terraformersim.wordpress.com/)
     - Terraformer was a project to build a free educational ecosystem simulation videogame. To much work to finish...
+
 - Artificial life
 
 
