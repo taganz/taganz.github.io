@@ -61,7 +61,7 @@ A few homemade projects—some completed, others still in the works.
 - [Forest Walk](https://www.rdalmau.com/forest2508/)
     - A generative art project using p5.js that simulates a walk through a procedurally generated forest. Each tree is created with unique DNA, resulting in a diverse and infinite landscape. [Github](https://github.com/taganz/forest2508)
 
-        <img src="images/forestwalk200.png?raw=true"/>
+        <img src="./images/forestwalk.png" alt="Screenshot of Forest Walk" width="200"/>
         
 - [Vic20 Action RPG](https://youtu.be/b3BdMNDb070)
     - An Action RPG written with Victor just for fun
