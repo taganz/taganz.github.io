@@ -9,6 +9,7 @@ I combine deep technical expertise with strong business and educational insight.
 - [Contact by mail ](mailto:info@rdalmau.com)
 
 
+
 ## Projects
 
 
@@ -22,7 +23,7 @@ I have been leading electronic publishing and ed-tech projects for over two deca
 
 - Diverse digital products: Development of digital encyclopedias, CD-ROM games, mobile apps, and portals.
 
-- **Multimedia Encyclopedias (2001 to 2013)**: Produced extensive digital [reference works](https://www.youtube.com/watch?v=BRZR2nwg3uA)
+- Multimedia Encyclopedias (2001 to 2013): Produced extensive digital [reference works](https://www.youtube.com/watch?v=BRZR2nwg3uA)
 
 - [veintinueve](http://www.veintinueve.com/). Launched one of Spain's first ebook stores in collaboration with Microsoft (2001). A pionnering project, [closed in 2002](https://elpais.com/diario/2002/05/28/cultura/1022536802_850215.html)
 
@@ -33,6 +34,7 @@ I have been leading electronic publishing and ed-tech projects for over two deca
 - Provided support for Planeta's early online ventures such as Estubroker, Temalia, Casa del Libro.com, and Geoplaneta.
 
 - Manager at the New Media Group in Andersen Consulting (Accenture). Focused on Digital Asset Management, Multimedia applications, internet strategy for media and financial companies.
+
 
 
 ## Home projects
