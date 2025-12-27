@@ -7,13 +7,8 @@ title: Ricard Dalmau
 logo: "/images/ricard_circle_transparent.png?raw=true"  
 
 # your text below (remove <br> elements if you don't need line breaks)
-description: >                     
-  <br>
-  Technology & content & education 
-  <br><br>
-  This is my personal website. Work in progress...!
-  <br><br>
-  <a href="https://www.linkedin.com/in/ricarddalmau/">View My LinkedIn Profile</a> 
+description: Technology & content & education 
   
 theme: jekyll-theme-minimal
 google_analytics:  # your Google Analytics tracking ID here - VERSIO ANTIGA
+
