@@ -17,7 +17,7 @@ I have been leading electronic publishing and ed-tech projects for over two deca
 
 - [Aulaplaneta](http://aulaplaneta.com/). Led the development of a Spanish k12 digital curriculum used by more than 2,000 schools. 
 
-- [Aprendilunnis](https://www.youtube.com/watch?v=meWw_-CAyDU): Produced a series of 32 CD-ROMs based on this TV cartoons.
+- [Aprendilunnis](https://youtu.be/KoKS8ZHvINA): Produced a series of 32 CD-ROMs based on this TV cartoons.
 
 - Agrega Project (INTEF): Produced content for the national federated repository of open educational resources. 
 
