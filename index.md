@@ -1,6 +1,6 @@
 ## About me
 
-I'm an EdTech consultant with 25+ years of experience leading digital product strategy, innovation, and large-scale implementations in the K–12 sector. I've spent most of my career at [Grupo Planeta](https://planeta.es/es), where I've created [Aulaplaneta](https://www.aulaplaneta.com/), a curriculum and digital-content platform. I've previously worked as a consultant in Accenture.
+I'm an EdTech consultant with 25+ years of experience leading digital product strategy, innovation, and large-scale implementations in the K–12 sector. I'm working at [Sarela Editorial](https://www.sarelaeditorial.com). I've spent most of my career at [Grupo Planeta](https://planeta.es/es), where I've created [Aulaplaneta](https://www.aulaplaneta.com/), a curriculum and digital-content platform. I've previously worked as a consultant in Accenture.
 
 I combine deep technical expertise with strong business and educational insight. I've led multidisciplinary teams across technology, pedagogy, UX, analytics, and content production.
 
